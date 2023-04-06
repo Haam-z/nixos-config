@@ -3,13 +3,15 @@
 {
   imports = [ ./hardware ../shared ];
   networking.hostName = "Lenovo";
+  programs.fish.enable = true;
   users = {
-    extraUsers.haam = {
+    users.haam = {
       extraGroups =
         [ "wheel" "audio" "video" "libvirtd" "networkmanager" "docker" ];
       description = "Hamza Zarrouk";
       useDefaultShell = true;
       isNormalUser = true;
+      initialPassword = "221";
       createHome = true;
     };
     defaultUserShell = pkgs.fish;

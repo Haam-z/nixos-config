@@ -213,11 +213,11 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1680395366,
-        "narHash": "sha256-i2GCv34rnBLrnll4eucL9pCjpI50uOq0VIUv94wcgnU=",
+        "lastModified": 1680406894,
+        "narHash": "sha256-MySr6nJMR/fEVbsizjTKXDxuGpeNAGGfD+UBNOyNFXw=",
         "owner": "Haam-z",
         "repo": "selena",
-        "rev": "866da724d310d5e1b020ec71da465bca1387e29d",
+        "rev": "0cbb70b0d5ea59cb2209c15729d446f2f165a162",
         "type": "github"
       },
       "original": {

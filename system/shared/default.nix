@@ -12,5 +12,4 @@
   selena.system.services.virtulations.enable = true;
   selena.system.services.printing.enable = true;
   selena.system.system-packages.fonts.enable = true;
-
 }
